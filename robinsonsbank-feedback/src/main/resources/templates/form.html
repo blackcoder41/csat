@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:fragment="header">
+<title>Raket Labs</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="stylesheet" th:href="@{/webjars/bootstrap/4.3.1/css/bootstrap.min.css}" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" th:href="@{/css/rbc_pob.css}" href="../static/css/rbc_pob.css">
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css">
+
+<script th:src="@{/webjars/jquery/3.3.1/jquery.min.js}"></script>
+<script th:src="@{/webjars/popper.js/1.14.7/umd/popper.min.js}"></script>
+<script th:src="@{/webjars/bootstrap/4.3.1/js/bootstrap.min.js}"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script th:src="@{/js/rbc_pob.js}" src="../static/js/rbc_pob.js"></script>
+
+
+
+<style>
+#wrapper {
+
+	margin: auto;
+}
+
+@media (max-width: 375px) {
+    #wrapper {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+</style>
+</head>
+<body>
+<div id="wrapper">
+
+<form th:action="@{/robinsonsbank/pob/feedback}" method="post" target="_blank"></form>
+    <input type="text">
+</form>
+
+</div>
+</body>
+</html>

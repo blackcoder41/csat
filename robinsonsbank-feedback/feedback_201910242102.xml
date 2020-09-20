@@ -1,0 +1,1237 @@
+<?xml version="1.0" ?>
+<!DOCTYPE SELECT_rating_AS_Rating_comment_AS_Comment_FROM_feedback_WHERE_TRIM_comment_AND_TRIM_comment_UAT_TEST_AND_TRIM_comment_PROD_TEST_AND_created_date_2019_09_01_AND_created_date_2019_10_01_ORDER_BY_created_date_ASC [
+  <!ELEMENT SELECT_rating_AS_Rating_comment_AS_Comment_FROM_feedback_WHERE_TRIM_comment_AND_TRIM_comment_UAT_TEST_AND_TRIM_comment_PROD_TEST_AND_created_date_2019_09_01_AND_created_date_2019_10_01_ORDER_BY_created_date_ASC (DATA_RECORD*)>
+  <!ELEMENT DATA_RECORD (Rating?,Comment?)+>
+  <!ELEMENT Rating (#PCDATA)>
+  <!ELEMENT Comment (#PCDATA)>
+]>
+<SELECT_rating_AS_Rating_comment_AS_Comment_FROM_feedback_WHERE_TRIM_comment_AND_TRIM_comment_UAT_TEST_AND_TRIM_comment_PROD_TEST_AND_created_date_2019_09_01_AND_created_date_2019_10_01_ORDER_BY_created_date_ASC>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>your interface is so hard to use.hmp</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>Please unlocked my account LAURA1006</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>error na naman. suuus!!!!!!!!</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>bills payment for the following merchants - robinsons credit card, globe, smart and pldt cannot be found.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>easy to find</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>Please improve your system its makes your client confuse about it. </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>poor</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Registration wasn't working on app so I did it on chrome</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>Im using my phone and i could not navigate to bills payment, unlike when im using a laptop</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>Have not received msg re: OTP.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>Why we can't view inward remittances and withdrawals? I do hope you will upgrade your system so that we knew it thru online.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>did not receive my OTP.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating></Rating>
+    <Comment>very good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>I cannot access my account</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Please update the app. Thanks</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Still connect</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>thank you</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>but you may still improve the system....or the statement of account..</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>how will i signed...do i have to print and submit to nearest Bank?</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>Buggy application. I had to use browser to submit/update my profile</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>:-)</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>Mobile OTS not working which cause my account to lockout</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>tagal mag bigay ng otp no.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating></Rating>
+    <Comment>Provide a feature Mobile load</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Fast Transaction</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>fine</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>can't find history of bills payment</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>accesible and convenient</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>I didn't receive my OTP number. I can't log-in. The back up system and technical support is not reliable. The customer service response is very poor.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>transfer template does not work in mobile app. have to use browser sometimes.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>User friendly. Awesome!</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>very good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>i didnt received OTP</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>KEEP IT UP</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Nice! Fast!</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>unable to login  - OTP unable to be generated!</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>too slow</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>I can't log in to my newly registered account. Submit button for confirmation is not wroking.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Experience poor activation and registration online.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>difficulties logging in - sometimes I just want to use computer without my phone</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>thank you for the user friendly application</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>so hard to access</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Keep it Up! </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Nice</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Great Services</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Excellent</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>very user-friendly</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating></Rating>
+    <Comment>May I humbly ask to view my registered cellphone # please.or kindly send it through my email.psych_rexruizjr@yahoo.com Thanks in advance</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment> convenient to us</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Very friendly </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>will appreciate much is account history can be extended up to 60-days. current is only 30-days.  i would check my account history via online and sometimes I need to go back to previous transactions.  thanks...</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Very good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>Online Banking is not working</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>very good and nice</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>I cant update my phone number</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>OTP did not generate</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>No instructions for creating account, I cant log in</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>YOU ARE LACKING OF ATTENTION TO YOUR CUSTOMER SUPPORT PLEASE REPLY AS THE SOONEST YOU RECEIVED AN EMAIL OR ELSE SOME OF YOUR CUSTOMER WILL BE PISSED OFF </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>No information about overseas online registration</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Add feature on Reloading Prepaid Phones. :)</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating></Rating>
+    <Comment>very good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>not responding most of the time</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>How am i suppose to open the mobile app if i try to open the web link using the app? Cant generate OTP then. So i cant log in</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>What's the next step after printing the enrollment acknowledgement page? How to submit and where to submit?</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Okay</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>A bit confusing</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Test</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Awesome 😊😄😉</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>easy to use</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>THE OTP text is delayed  in sms morethan 5mins i cannot log in because of that </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>have difficulty in receiving OTP </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>cannot transfer to my other Rbank account</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>hindi naman nag mimessage sa contact no. na binigay ko,,,nag email lang need pa ng internet connection.,..sana po nag titext po talaga</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>cant access my rbank online on my mobile phone</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>It was very fast enroll my account, Hope &amp; looking forward for security of my account.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>=)</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>hindi ko maintindhan magregister... biglan nablock account ko agad after i register my debit account... </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>now we can easy access our account</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Easy to check my balance</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>CAN ACCESS MY ACCOUNT</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Convenient</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>No otp send</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>new</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>I don't see any Statements from May 2019 to date. No account history even! </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>better if there's no need to submit a physical copy/form</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>cannot link my credit card and check my credit card balance :(</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>I finished register online banking the problem is I can't open my account</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating></Rating>
+    <Comment>I can't get my generated OTP on my robbank app </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>good service</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>I cant log in my acc. </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Next time, transaction history should not be limited to past 90 days</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Nice and easy</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>out dated user interface.No customer trouble shoot done.Not user friendly To expensive to use</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>Need further improvement. Should copy experience from Citibank mobile and web app.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Mobile did not show pop up whereas the Google Chrome was able to show, pls improve RBank App</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>good job rbank</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>thank you</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Very Good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Where can view the change passsword link?</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>Di aq makaregister😢😢😢</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>account enrollment doesn't lead to an account? i'm so confused. It's easier to enroll an online account for other banks. </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>Can’t choose credit card account to pay to even though I have set it up. </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>OTP not accepted!  something wrong with your system</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>easy procedure</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Nice one RBank!</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>easy to access</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating></Rating>
+    <Comment>very good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Very good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>thank you</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>quite slow</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>very convenient</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>I'm still satisfied with your assistance even if it takes almost a week to activate my online enrollment. Thank you :-) </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>ok</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>happy</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>no Rbank credit card access</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>too hassle to register online banking. Instructions are not clear enough. </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>THANK YOU FOR ACCOMMODATING MY CONCERN :)</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>complicated</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Trusted and convinient to use.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Good service</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>fast and easy</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>I am having a diifficulty upon registration. Please Help. Thank You.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Nice online banking</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>helpful. thank you</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>Good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating></Rating>
+    <Comment>🙂</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>cant access my account</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>very warm personnel</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>how to generate transaction history for more than 30 days?  Populating the  from and to dates returns a "no records found" result.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Nice</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>yess</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>How can access it? </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>No hassle</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>Don't know what happened, I entered my OTP correctly.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>Had issues registering</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Keep it up</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>nice</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>very nice thankyou</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>good app</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Thank you for your response</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Fast transactions</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>very good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Very responsive. </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Verygood</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>easy to sign in</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>I cannot open my atm account i cannot link it tobthe app</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>It's a users friendly. Nice.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>I cannot transfer money to other account. Where to input account details? It's not user friendly</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>excellent</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>I was not inform that i will use the browser instead of the app when i want to register on online banking.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Easy 😊</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>I didn't receive the OTP</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>No otp sent or received.. twice</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>I cannot proceed the application</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>It's good to be a member of Robinsons Bank.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>I did not receive OTP </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>CANNOT ACCESS ONLINE BANKING TRIED TO CLICK FORGOT PASSWORD HOWEVER, NONE SUBMISSION</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Robinsons bank application through playstore can't load . </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Its very easy and useful</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>account not updated</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating></Rating>
+    <Comment>thank you</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>details under transactions are not updated</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>East and fast</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Thank you</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>Could not find information on robinsons wallet on the website. Also asking for OTP every time I log in is annoying</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>need to wait to make a quick transfer</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>nice</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>VERY GOOD</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>very assessable</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>keep it up.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Satisfy</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>I still couldn't access my account. I already visited the branch to ask for assistance but my online banking account is still not fixed.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating></Rating>
+    <Comment>🙂</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>late sending of OTP</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>nice</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>I enrolled in online banking, then printed some document and submitted it to the nearest robinsons bank branch. As per teller, wait until tomorrow then it will be registered. Almost a week past until now it is still not registered.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Ok</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Nakakahilo mag register dito. </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>Poor.  I haven't logged out yet but have been redirected to log i page due to multiple sessions detected.  </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating></Rating>
+    <Comment>Its hard to log in..</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Had problems wd d otp</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Thankyou</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>I cannot see the icons at the bottom of the page because they are covered by the "All Rights Reserved" line</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>Why i can't access again in your mobile app.  My password and username is correct? </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Fast online registration</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>It always happened that your system us down. I cannot generate OTP. Then I cant do my transactions online</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>no OTP service. cant login</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>9/13/19 transactions are not showing. The site was not accessible the whole morning.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating></Rating>
+    <Comment>why i cant view online banking?</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>Cannot log in.. one full day for maintainance?</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>it keeps hanging &amp; saying otp cant be generated</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>fast</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Great! No more errors.When will RSB be able to linkl my Credit Card account here?It will be a huge convenience when it does.Thank you</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>Online balance... Not updated</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>Dragonpay is not included in the list of company or biller</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>g</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating></Rating>
+    <Comment>very good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>I waited for my OTP for about 5 mins, was not sent and I don't know why...?</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>Account history should be more timely. My records does not show transactions from last friday, 9/13/19 to sunday, 9/15/19.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>always has a problem</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating></Rating>
+    <Comment>very good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>Your online application is far behind from other bank. A credit card account that cant integrate in the online account is a huge no no.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Fast </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>How can I check with our previous transaction for the last 2 to 5 months? and I can see here only the present and 30 days transaction.  I need to see the old transaction history. please!!!</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Fast Transaction Great Job!!</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>I requested to reset my password. I just don't see the sense of asking the old password if the reason why I am resetting my password was I forgot the old password. Is this for real?!</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Very loading when i clicked the submit button</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>everytime i log in on mobile app it wont go through ,i always click the  forget password so i can access the HOME </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>cant open my locked account</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>I have to enter One-time pin every time I log in</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>very good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>On going maintenance since morning</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>nice</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>I dont have my old cp number</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>very fast</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>Doesnt work</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Nice</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>did not receive OTP when I logged on 2x</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>no otp sent</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>i did not receive OTP</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>you OTP generator is not working!!! ive been trying to login more than 10 times for the past hour!</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Happy and the customer service is very responsive</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Good customer service</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>please email me asap as soon as your bills payment is operational as I am already incurring surcharge due to your system failure. I was hoping last Sep. 14 when I left for  a vacation that I can count on RSB.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>nice one</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Great Banking experienced</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>My atm is activate now??</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Thank you for fast online registration. Keep the good work and security of accounts of your customers.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>user interface can use a little improvement</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>I cannot extract my account history for beyond 30 days.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating></Rating>
+    <Comment>I cannot access on my account. OTP is not generating. </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>Nageerror..</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>I tried to register online many times but to my dismay, the system is a failure, whilst I was not able to complete my transaction. </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>I always encounter system error.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>Cannot make online transactions/payment at his time.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>very good online service!</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>My account account was always locked. I need to change my password evertime I log in. </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>good so far</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>NO OTP MSG IN MY MOBILE NUMBER</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>OTP always delayed</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>finish this</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating></Rating>
+    <Comment>GOOD</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>always atm offline</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>no advice when having maintenance...</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>fast access</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>cannot open account summary details</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>Your transaction history is not updated real time. Its almost 11am and I still can't see my yesterday's transaction. </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>The generation of OT PIN is so slow</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Its very hard for me to register in your mobile banking app </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>I have sent an email but since then, I still haven't received any response</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>cant process my online banking</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>I did not get a transaction receipt for my bank transfer. I needed it to confirm deposit to the recipient</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>How can update my contact number? </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>Interface is a hard to navigate. Inside the account, there is no tile to indicate the contents of each account. Interface is very slow!</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Confusing</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>your bank doesnt send SOA even electronically. like that would be so hard to do!</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>too slow website... for security, i have to log-out</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Its good</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>Service always unavailable.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>very heplful</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>slow</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>cannot view my CASA  transaction credits  history</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>always offline and there were occasions when I was debited with an unsuccessful payment transaction</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>The app always stops working and direct me to web.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>Multiple code cant access😔😔😔</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>accurate and fast</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>:)</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>Not yet updated on transaction?</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>No OTP sent , tried to login twice</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>i am not receiving OTP from my registered number </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>Nice!</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>slow</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>Hard to transfer funds</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>So difficult to use</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>still could be better</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>Online banking is always down. Also, I already submitted my initial enrollment form for personal online banking to Main Branch at Robinsons Galleria however, still cannot view my account. </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>I have 2 access to register nothing happens </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>SMS OTP not sent</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>fast</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>Server was unavailable. For supposedly one transaction only on Pesonet, my account got deducted 5 times. I tried calling customer service yesterday at 6pm but no one was answering. This is so disappointing</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>too much hassle</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>the site is lagging</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>Tnx for the support</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>THE BEST</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating></Rating>
+    <Comment>🙂</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>tagal OTP</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>Why can't I enroll my credit card through online banking?</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>It took me 4 login attempts just to enter the dashboard even though i am receiving the OTPs on time, the website is lagging. </Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>CAN'T ACCESS THE ONLINE BANKING</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>I had to login in multiples times before i was able to access the dashboard. Currently the app is not working, but i was able to make payments on my desktop</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>Your site hardly ever works correctly and is painfully slow... I'm most always redirected of logged out by your site... Very frustrating!</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>I can't pay my Robinsons Credit Card thru online banking of robinsons. Why does the robinsons card was deleted on the selection?</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>Website keeps lagging</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Good</Rating>
+    <Comment>It so hard to use app. Loading</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Poor</Rating>
+    <Comment>It's not loading..can't go on the next page</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Poor</Rating>
+    <Comment>I got server unavailable when I need it it my mobile.</Comment>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <Rating>Very Good</Rating>
+    <Comment>easy to enroll</Comment>
+  </DATA_RECORD>
+</SELECT_rating_AS_Rating_comment_AS_Comment_FROM_feedback_WHERE_TRIM_comment_AND_TRIM_comment_UAT_TEST_AND_TRIM_comment_PROD_TEST_AND_created_date_2019_09_01_AND_created_date_2019_10_01_ORDER_BY_created_date_ASC>
