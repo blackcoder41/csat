@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:fragment="header">
+<title>Raket Labs</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="stylesheet" th:href="@{/webjars/bootstrap/4.3.1/css/bootstrap.min.css}" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<link rel="stylesheet" th:href="@{/css/feedback.src.css}" href="../static/css/rbc_pob.css">
+
+
+<script th:src="@{/webjars/jquery/3.3.1/jquery.min.js}"></script>
+<script th:src="@{/webjars/popper.js/1.14.7/umd/popper.min.js}"></script>
+<script th:src="@{/webjars/bootstrap/4.3.1/js/bootstrap.min.js}"></script>
+<script th:src="@{/feedback/js}"></script>
+<script>
+jQuery(function() {
+	
+	//$("#modal-feedback").modal();
+});
+
+
+
+</script>
+
+<style>
+#wrapper {
+
+	margin: auto;
+}
+
+@media (max-width: 375px) {
+    #wrapper {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+</style>
+</head>
+<body>
+<div id="wrapper">
+
+</div>
+
+
+</body>
+
+
+</html>

@@ -1,0 +1,57 @@
+<link rel="stylesheet" href="[BASE_URL]/css/feedback.min.css">
+
+<!-- Feeback Form -->
+<div class="modal fade" id="modal-feedback" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="exampleModalLongTitle">Thank you for using RBank&nbsp;Digital</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+		          <span aria-hidden="true">&times;</span>
+		        </button>
+            </div>
+            
+            <div class="modal-body">
+                <div id="div-feedback">
+                    <p>Tell us about your experience to help us serve you better.</p>
+                    <div style="padding:20px; margin:auto;">
+                        <div class="smiley very-poor" rating="Very Poor">Very Poor</div>
+                        <div class="smiley poor" rating="Poor">Poor</div>
+                        <div class="smiley good" rating="Good">Good</div>
+                        <div class="smiley very-good" rating="Very Good">Very Good</div>
+                        <div style="clear:both;"></div>
+                    </div>
+                    <textarea id="comment" class="form-control" placeholder="Leave a comment" rows="2"></textarea>
+                </div>
+
+                <div id="div-thank-you" style="display:none;">
+                    <h4>Thank you for your feedback.</h4>
+                </div>
+            </div>
+
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" id="btn-submit-feedback">Submit</button>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<iframe name="feedback-target" id="iframe-feedback-target" style="display:none;"></iframe>
+
+<form action="[BASE_URL]/feedback" method="post" 
+    target="feedback-target" id="form-feedback" style="display: none;">
+    <input type="hidden" name="key" id="hidden-key">
+    <input type="hidden" name="rating" id="hidden-rating">
+    <input type="hidden" name="comment" id="hidden-comment">
+</form>
+
+<img style="display:none;" src="https://www.robinsonsbank.com.ph/wp-content/uploads/2020/07/gray-very-poor.png">
+<img style="display:none;" src="https://www.robinsonsbank.com.ph/wp-content/uploads/2020/07/yellow-very-poor.png">
+<img style="display:none;" src="https://www.robinsonsbank.com.ph/wp-content/uploads/2020/07/gray-poor.png">
+<img style="display:none;" src="https://www.robinsonsbank.com.ph/wp-content/uploads/2020/07/yellow-poor.png">
+<img style="display:none;" src="https://www.robinsonsbank.com.ph/wp-content/uploads/2020/07/gray-good.png">
+<img style="display:none;" src="https://www.robinsonsbank.com.ph/wp-content/uploads/2020/07/yellow-good.png">
+<img style="display:none;" src="https://www.robinsonsbank.com.ph/wp-content/uploads/2020/07/gray-very-good.png">
+<img style="display:none;" src="https://www.robinsonsbank.com.ph/wp-content/uploads/2020/07/yellow-very-good.png">
