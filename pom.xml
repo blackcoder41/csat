@@ -6,7 +6,6 @@
     <groupId>com.raketlabs</groupId>
     <artifactId>csat</artifactId>
     <version>1.0</version>
-    <packaging>pom</packaging>
 
     <modules>
         <module>core</module>
