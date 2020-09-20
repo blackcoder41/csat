@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="base :: header(title = ~{::title}, scripts = ~{::script})">
+    <title>Raket Labs - QR</title>
+</head>
+<body>
+    <div id="wrapper">
+        <div th:replace="base :: #raketlabs-logo"></div>
+        <div th:replace="base :: #alerts"></div>
+
+        <div id="login-panel" class="card panel-s">
+            <div class="card-body">
+                <form th:action="@{/register}" method="post">
+                    <div class="form-group">
+                        <label for="username">Username</label>
+                        <input type="text" class="form-control" id="username" name="username" placeholder="Enter your preferred username" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Password</label>
+                        <input type="text" class="form-control" id="password" name="password" placeholder="Enter your preferred password" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="confirmPassword">Confirm Password</label>
+                        <input type="text" class="form-control" id="confirmPassword" name="confirmPassword" placeholder="Re-enter your password to confirm" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="signup" class="form-check-label invisible">Sign Up</label>
+                        <button type="submit" class="btn btn-primary btn-block" name="createInstitution">Sign Up</button>
+                    </div>
+    
+                </form>
+            </div>
+        </div>
+
+    </div> <!-- #wrapper -->
+</body>
+</html>
